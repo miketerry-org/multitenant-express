@@ -1,0 +1,25 @@
+{
+  "name": "multitenant-express",
+  "version": "0.1.0",
+  "description": "Adds multitenant capability to express applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/multitenant-express.git"
+  },
+  "keywords": [
+    "express",
+    "tenant",
+    "tenants",
+    "multitenant"
+  ],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/multitenant-express/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/multitenant-express#readme"
+}
