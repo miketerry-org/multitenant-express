@@ -3,8 +3,9 @@
 "use strict";
 
 // load all necessary modules
-const Tenants = require("./lib/tenants");
 const findFiles = require("./lib/findFiles");
+const { serverLog, setServerLog } = require("./lib/serverlog");
+const Tenants = require("./lib/tenants");
 
 // export the tenants class
-module.exports = { Tenants, findFiles };
+module.exports = { findFiles, serverLog, setServerLog, Tenants };
