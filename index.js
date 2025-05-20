@@ -1,4 +1,4 @@
-// index.js:
+// index.js: multitenants-express
 
 "use strict";
 
