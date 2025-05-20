@@ -1,6 +1,6 @@
 {
   "name": "multitenant-express",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Adds multitenant capability to express applications",
   "main": "index.js",
   "scripts": {
@@ -14,13 +14,13 @@
     "express": "^5.1.0",
     "express-fileupload": "^1.5.1",
     "express-mongo-sanitize": "^2.2.0",
+    "express-validator": "^7.2.1",
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
     "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
     "randomatic": "^3.1.1",
-    "topsecret-env": "^0.1.4",
-    "xss-clean": "^0.1.4"
+    "topsecret-env": "^0.1.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
