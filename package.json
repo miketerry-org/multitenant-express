@@ -1,6 +1,6 @@
 {
   "name": "multitenant-express",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Adds multitenant capability to express applications",
   "main": "index.js",
   "scripts": {
